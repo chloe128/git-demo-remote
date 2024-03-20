@@ -33,3 +33,13 @@ Git status
 Git log
 
 Git log --oneline
+
+
+//upload from local to remote
+Git push
+
+//download
+Git pull
+
+//create copy of remote on your local
+Git clone
